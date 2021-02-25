@@ -1,0 +1,33 @@
+.container {
+  background-color: #fdf5eb;
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+
+.avatar__container {
+  margin-left: 24px;
+}
+
+.question {
+  border: 1px solid #4b5161;
+  align-items: center;
+  font-family: F37GingerPro-Regular;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  width: 28px;
+  height: 28px;
+  border-radius: 100%;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
